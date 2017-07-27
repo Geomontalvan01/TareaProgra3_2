@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Geovanny/Desktop/Progra3Tarea2-master/Test.cpp
+Test.h
+/Users/Geovanny/Desktop/Progra3Tarea2-master/Test.h
+
+/Users/Geovanny/Desktop/Progra3Tarea2-master/Test.h
+iostream
+-
+stack
+-
+
+/Users/Geovanny/Desktop/Progra3Tarea2-master/main.cpp
+Test.h
+/Users/Geovanny/Desktop/Progra3Tarea2-master/Test.h
+iostream
+-
+
